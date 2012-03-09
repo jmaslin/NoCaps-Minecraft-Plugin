@@ -1,3 +1,8 @@
 name: noCaps
 main: com.justinmaslin.noCaps
 version: 0.2
+
+permissions:
+	noCaps.noFilter
+		description: Do not filter player's chat.
+		default: op
